@@ -1,7 +1,10 @@
 pandas
 sklearn
 numpy
+seaborn
 ipykernel
 
+
+-e .
 
 
